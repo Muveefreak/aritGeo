@@ -1,0 +1,22 @@
+{
+  "name": "aritgeo",
+  "version": "1.0.0",
+  "description": "aritGeo TDD ",
+  "main": "src/main.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "mocha tests/test.js"
+  },
+  "author": "Akhere Ihenyen",
+  "license": "ISC",
+  "keywords": [
+    "tdd",
+    "javascript"
+  ],
+  "dependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^3.5.3"
+  }
+}
